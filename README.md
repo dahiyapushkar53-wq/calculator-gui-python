@@ -46,6 +46,8 @@ calculator-gui/
 > Add your project screenshot in the assets folder
 
 ![Calculator Screenshot](assets/screenshot.png)
+<img width="456" height="663" alt="Screenshot 2026-04-16 235302" src="https://github.com/user-attachments/assets/e80c3c7d-e073-433d-9163-c443083dbbe0" />
+
 
 ---
 
