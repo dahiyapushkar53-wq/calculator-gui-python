@@ -84,6 +84,12 @@ python main.py
 
 ---
 
+## 🎓 Academic Details
+
+* **University:**  SGT University
+* **Faculty/Department:** Faculty of Engineering(CSE)
+---
+
 ## 💡 Future Improvements
 
 * Dark mode 🌙
@@ -101,6 +107,6 @@ python main.py
 
 ## ⭐ Acknowledgment
 
-This project is created for learning and academic purposes to explore GUI-based application development using Python.
+This project is created for academic purposes as part of university coursework and to explore GUI-based application development using Python.
 
 ---
